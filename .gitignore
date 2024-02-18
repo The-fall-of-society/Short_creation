@@ -1,0 +1,11 @@
+# Ignore final_product directory
+final_product/
+
+# Ignore Clips_for_edit directory
+Clips_for_edit/
+
+# Ignore Raw_material directory
+Raw_material/
+
+# Ignore .env files
+*.env
